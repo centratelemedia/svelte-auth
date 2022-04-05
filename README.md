@@ -1,3 +1,5 @@
+https://blog.logrocket.com/authentication-svelte-using-cookies/
+
 # Svelte Auth
 
 This demo app is part of a tutorial explaining how to implement authentication using cookies in SvelteKit.
